@@ -20,6 +20,11 @@ the consumer decision-making process.
 
 ## 3. Project Methodology  
 
-** Data Preparation  
+## Data Preparation    
 Import data from Kaggle and perform data cleaning using Pandas and NumPy libraries.  
 
+## Exploratory Data Analysis (EDA)  
+Validate data accuracy and analyze data distribution, such as product categories and seasonality.  
+
+## Visual & Interactive UI  
+Design graphs with Seaborn/Matplotlib and Create interactive filters using ipywidgets.  
