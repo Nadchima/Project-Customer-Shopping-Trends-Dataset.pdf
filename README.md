@@ -28,3 +28,6 @@ Validate data accuracy and analyze data distribution, such as product categories
 
 ## Visual & Interactive UI  
 Design graphs with Seaborn/Matplotlib and Create interactive filters using ipywidgets.  
+
+[Customer Shopping Trends Dataset.pdf](https://github.com/user-attachments/files/31408728/Customer.Shopping.Trends.Dataset.pdf)
+
