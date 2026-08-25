@@ -3,7 +3,9 @@ The Consumer Behavior and Shopping Habits Dataset provides comprehensive insight
 the consumer decision-making process.  
 
 ## 1. Project Objective
-The goal of this project is to demonstrate data cleaning, exploratory data analysis (EDA), and insight generation using Python and Visualization.
+• To analyze consumer behavior and purchasing trends from the synthetic dataset. 
+• To identify demographic factors such as age, gender, and location that affect sales. 
+• To create a user interface (UI) using a Python library (ipywidgets) that allows users to perform interactive analysis based on their desired criteria.  
 
 ## 2. Tools & Libraries Used  
 
@@ -15,3 +17,9 @@ The goal of this project is to demonstrate data cleaning, exploratory data analy
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Source: [Customer Shopping Behavior Dataset on Kaggle](https://www.kaggle.com/datasets/ayeshasiddiqa123/customer-shopping-behavior-dataset)    
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Format: CSV  
+
+## 3. Project Methodology  
+
+** Data Preparation  
+Import data from Kaggle and perform data cleaning using Pandas and NumPy libraries.  
+
