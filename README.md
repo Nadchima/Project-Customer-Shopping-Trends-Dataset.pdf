@@ -2,7 +2,8 @@
 The Consumer Behavior and Shopping Habits Dataset provides comprehensive insights into consumer preferences, trends, and patterns during their shopping experiences. This dataset encompasses a wide variety of variables, including demographic information, purchase history, product preferences, and purchase frequency. With this complete dataset, analysts and researchers can delve into the complexities of 
 the consumer decision-making process.  
 
-## 1. Project Objective
+## 1. Project Objective  
+
 • To analyze consumer behavior and purchasing trends from the synthetic dataset.   
 
 • To identify demographic factors such as age, gender, and location that affect sales.  
@@ -22,18 +23,23 @@ the consumer decision-making process.
 
 ## 3. Project Methodology  
 
-## Data Preparation    
+**Data Preparation**    
+
 Import data from Kaggle and perform data cleaning using Pandas and NumPy libraries.  
 
-## Exploratory Data Analysis (EDA)  
+**Exploratory Data Analysis (EDA)**  
+
 Validate data accuracy and analyze data distribution, such as product categories and seasonality.  
 
-## Visual & Interactive UI  
+**Visual & Interactive UI**    
+
 Design graphs with Seaborn/Matplotlib and Create interactive filters using ipywidgets.  
+
 
 <img width="876" height="491" alt="image" src="https://github.com/user-attachments/assets/87cd9c67-09c1-455e-b4b5-818e994142fb" />  
 
 ## 4. Results  
+
 **Best-Selling Category:** Clothing was the primary revenue driver, generating $104,264 in sales, followed by accessories at $74,200.  
 
 <img width="536" height="222" alt="image" src="https://github.com/user-attachments/assets/c29de7b9-233c-4aba-9f6b-ed5ae864767d" />  
