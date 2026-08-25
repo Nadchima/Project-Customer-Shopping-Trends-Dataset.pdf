@@ -3,9 +3,11 @@ The Consumer Behavior and Shopping Habits Dataset provides comprehensive insight
 the consumer decision-making process.  
 
 ## 1. Project Objective
-• To analyze consumer behavior and purchasing trends from the synthetic dataset. 
-• To identify demographic factors such as age, gender, and location that affect sales. 
-• To create a user interface (UI) using a Python library (ipywidgets) that allows users to perform interactive analysis based on their desired criteria.  
+• To analyze consumer behavior and purchasing trends from the synthetic dataset.   
+
+• To identify demographic factors such as age, gender, and location that affect sales.  
+
+• To create a user interface (UI) using a Python library (ipywidgets) that allows users to perform interactive analysis based on their desired criteria.    
 
 ## 2. Tools & Libraries Used  
 
